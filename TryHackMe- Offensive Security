@@ -1,18 +1,20 @@
 What is Offensive Security?
 
+The Proceess of thinking like a hacker to find the weaknesses before ut can be availible to a hacker
 
 
 Key Things I Learned
 
-
+Hackers that work ethically have permission to test systems.
+Penetration Testing (PT) identifies security issues.
+Security professionals use tools to identify security problems.
 
 Tool Mentioned
 
-
-
-Example:
-
-
-
+DIRB- Scans Websites Content. Used to find hidden files or directories. Example of this was 
+/admin
+/login
+/uploads
 
 Summary
+This showed me the basics of offensive security and how ethical hackers improve web security.
