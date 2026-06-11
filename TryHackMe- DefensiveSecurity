@@ -1,21 +1,15 @@
 What is Defensive Security?
-
 It is the process of securing and defending peoples devices and systems
 
 Key Things I Learned
-
 Security Analyst are ther to look after logs and alerts.
 you can use firewalls to block bad IP addresses.
 To stop the threat you would need to identify it and then STOP it. This is called Incident Response
 
-
-Tool Mentioned
-
-
-
-Example:
-
-
-
+What I Did
+Looked into some suspicious activity
+Blocked a malicious IP Address
+Used a firewall to stop more connections
 
 Summary
+Introduced the basics of defensive security and showed how the security team would react to threats.
