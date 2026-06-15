@@ -1,1 +1,21 @@
+# TryHackMe - Search Skills
 
+## What I Learned
+
+How to search for vulnerability information.
+What a CVE is: universal dictionary of known vulnerabilities.
+How repositories can contain exploit information.
+How security researchers share findings.
+
+## Tools Mentioned
+
+- GitHub
+- CVE databases
+- Shodan ( Continuosly Scans Internet)
+- VirusTotal (Tells you whether any engines are flagged as malicious)
+- Linux MAN Page
+- nc (netcat)
+
+## Summary
+
+This room introduced methods for finding security-related information using public resources.
