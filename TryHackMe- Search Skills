@@ -1,13 +1,14 @@
-# TryHackMe - Search Skills
+TryHackMe - Search Skills
 
-## What I Learned
+What I Learned
 
 How to search for vulnerability information.
 What a CVE is: universal dictionary of known vulnerabilities.
 How repositories can contain exploit information.
 How security researchers share findings.
+Documentation of how to work around third party tools
 
-## Tools Mentioned
+Tools Mentioned
 
 - GitHub
 - CVE databases
@@ -16,6 +17,7 @@ How security researchers share findings.
 - Linux MAN Page
 - nc (netcat)
 
-## Summary
+Summary
 
 This room introduced methods for finding security-related information using public resources.
+  
