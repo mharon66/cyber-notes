@@ -8,10 +8,11 @@ Key Things I Learned
 Hackers that work ethically have permission to test systems.
 Penetration Testing (PT) identifies security issues.
 Security professionals use tools to identify security problems.
+Usually Hackers go for the unliked pages on websites
 
 Tool Mentioned
 
-DIRB- Scans Websites Content. Used to find hidden files or directories. Example of this was 
+DIRB Command - Scans Websites Content. Used to find hidden files,directories and web pages. Example of these unlinked pages are:
 /admin
 /login
 /uploads
