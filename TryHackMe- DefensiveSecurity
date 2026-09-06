@@ -7,9 +7,12 @@ you can use firewalls to block bad IP addresses.
 To stop the threat you would need to identify it and then STOP it. This is called Incident Response
 
 What I Did
+Found out how to Identify Suspicious Activity
 Looked into some suspicious activity
+Also Managed to find out what the attacker was looking to do
 Blocked a malicious IP Address
 Used a firewall to stop more connections
 
 Summary
 Introduced the basics of defensive security and showed how the security team would react to threats.
+Also how proffessionals deal with these type of threats.
