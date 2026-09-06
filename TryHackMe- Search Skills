@@ -7,6 +7,7 @@ What a CVE is: universal dictionary of known vulnerabilities.
 How repositories can contain exploit information.
 How security researchers share findings.
 Documentation of how to work around third party tools
+Directory enumeration specifically targets hidden or unlinked web content.
 
 Tools Mentioned
 
