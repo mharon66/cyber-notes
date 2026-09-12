@@ -12,6 +12,7 @@ Touch- Creates a new empty file.
 Rm- Remove File.
 Rmdir- Remove an Empty Directory.
 Find - Searches the Desktop for Files and Directories.
+Cd .. - Leave directory
 
 # # Practical Example: Using Kali Linux
 
