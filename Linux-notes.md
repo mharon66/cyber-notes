@@ -21,7 +21,7 @@ Used the command mkdir to create the folder in this case mkdir linux2
 
 # Checked my current location: pwd
 I used pwd to check which directory I was currently working in.
-pwd
+# pwd
 This showed that I was inside:
 ~/Desktop/linux2
 This is useful because it lets me know exactly where I am in the Linux filesystem before running other commands.
